@@ -1,0 +1,22 @@
+framework/platform/bpl/cfg/linux/bpl_cfg_ifaces.cpp
+analyzer-venv
+/*.ipk
+/build/
+/logs/
+output.log
+_GO_KW
+.kwlp
+.kwps
+kw_reports
+__pycache__/
+# ignore artifacts for building w/ openwrt USE_SOURCE_DIR
+.built
+.built_check
+.configured_*
+.pkgdir/
+.prepared
+.quilt_checked
+.source_dir
+ipkg-*/
+/rdk
+.dccache
